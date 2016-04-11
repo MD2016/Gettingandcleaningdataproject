@@ -14,6 +14,7 @@ From the data set in step 4, creates a second, independent tidy data set with th
 Code Book:
 
 subject - identifier of person being examined
+
 activitylabel - the activity performed during the examination
 
 The variables are averages of the mean and std of the following measurements:
